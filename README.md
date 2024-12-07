@@ -1,6 +1,8 @@
 # kickstart.nvim
 All thanks to the champ TJ DeVries! https://www.youtube.com/watch?v=m8C0Cq9Uv9o&t=293s&ab_channel=TJDeVries
+
 Original repo: https://github.com/nvim-lua/kickstart.nvim
+
 ## Introduction
 
 A starting point for Neovim that is:
